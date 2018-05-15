@@ -1,0 +1,53 @@
+.Voucher {
+    width: 400px;
+    margin-top: 10px;
+    flex-direction: row;
+    display: flex;
+
+}
+
+.Voucher:hover {
+    transform: scale(1.005)
+}
+
+.Voucher-logo {
+    width: 50%;
+    display: flex;
+}
+
+.Voucher-logo img {
+    width: 100%;
+}
+
+.Voucher-details {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 8px 0 0 8px;
+    justify-content: space-between;
+}
+
+.Voucher-price {
+    font-size: 20px;
+}
+
+.Voucher-title {
+}
+
+.Voucher-desc {
+    color: #c4c4c4;
+    font-size: 14px;
+}
+
+.Voucher-button {
+    background: #199DAA;
+    font-size: 16px;
+    border: 0;
+    color: #fff;
+    padding: 8px;
+    outline: none;
+}
+
+.Voucher-button:hover {
+    background: #1AD6E8;
+}

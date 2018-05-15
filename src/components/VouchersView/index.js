@@ -1,54 +1,42 @@
 import React, { Component } from 'react';
-import './App.css';
+import './style.css';
 
 import Button from '../Button';
 import { fetchVouchers } from '../../utils/fetchVouchers';
+import Voucher from '../Voucher';
 
 
-class App extends Component {
+class Index extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      vouchers: []
+    };
+  }
+
+  handleFetchVoucher = () => this.setState({
+    vouchers: [...this.state.vouchers, ...fetchVouchers(10)]
+  });
+
   render() {
+    const { vouchers } = this.state;
     return (
       <div className='App'>
-        <Button onClick={() => console.log(fetchVouchers(10))}></Button>
+        <Button onClick={() => this.handleFetchVoucher()}></Button>
         <section className='Vouchers'>
-          <div className='Voucher'>
-            <div className='Voucher-logo'>
-              <img src='https://fakeimg.pl/200x150/' alt='Description' />
-            </div>
-            <div className='Voucher-details'>
-              <div className='Voucher-price'>Price: €100</div>
-              <div className='Voucher-title'>Distributor</div>
-              <div className='Voucher-desc'>Description</div>
-              <button className='Voucher-button'>Buy</button>
-            </div>
-          </div>
-
-          <div className='Voucher'>
-            <div className='Voucher-logo'>
-              <img src='https://fakeimg.pl/200x150/' alt='Description' />
-            </div>
-            <div className='Voucher-details'>
-              <div className='Voucher-price'>Price: €100</div>
-              <div className='Voucher-title'>Distributor</div>
-              <div className='Voucher-desc'>Description</div>
-              <button className='Voucher-button'>Buy</button>
-            </div>
-          </div>
-          <div className='Voucher'>
-            <div className='Voucher-logo'>
-              <img src='https://fakeimg.pl/200x150/' alt='Description' />
-            </div>
-            <div className='Voucher-details'>
-              <div className='Voucher-price'>Price: €100</div>
-              <div className='Voucher-title'>Distributor</div>
-              <div className='Voucher-desc'>Description</div>
-              <button className='Voucher-button'>Buy</button>
-            </div>
-          </div>
+          {
+            vouchers.map(index =>
+              <Voucher
+                price={index.price}
+                distribution={index.distribution}
+                description={index.description}
+                anchor={index.anchor}
+              />)
+          }
         </section>
       </div>
     );
   }
 }
 
-export default App;
+export default Index;
