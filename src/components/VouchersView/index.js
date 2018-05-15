@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import Button from '../Button/index';
+import Button from '../Button';
 import { fetchVouchers } from '../../utils/fetchVouchers';
 
 
 class App extends Component {
   render() {
-    console.log(fetchVouchers(10))
     return (
       <div className='App'>
+        <Button onClick={() => console.log(fetchVouchers(10))}></Button>
         <section className='Vouchers'>
           <div className='Voucher'>
             <div className='Voucher-logo'>
@@ -50,4 +50,5 @@ class App extends Component {
     );
   }
 }
+
 export default App;
