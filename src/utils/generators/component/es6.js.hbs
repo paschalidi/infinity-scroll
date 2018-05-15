@@ -8,6 +8,8 @@
 /* eslint-disable react/prop-types */
 
 import React from 'react';
+import './style.css';
+
 {{#if isContainer}}
 import { connect } from 'react-redux';
     {{#if wantActionsAndReducer}}
@@ -23,11 +25,6 @@ class {{ properCase name }} extends React.Component { // eslint-disable-line rea
   render() {
     return (
       <div>
-        {/* language=CSS */}
-          <style jsx>
-            {`
-            `}
-          </style>
         <p>{{ properCase name }}!!</p>
       </div>
     );

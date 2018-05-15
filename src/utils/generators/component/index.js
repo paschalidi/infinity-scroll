@@ -42,13 +42,19 @@ module.exports = {
 
     const actions = [{
       type: 'add',
-      path: '../../src/components/{{properCase name}}/index.js',
+      path: '../../components/{{properCase name}}/index.js',
       templateFile: './component/es6.js.hbs',
       abortOnFail: true
     }, {
       type: 'add',
-      path: '../../src/components/{{properCase name}}/tests/index.test.js',
+      path: '../../components/{{properCase name}}/tests/index.test.js',
       templateFile: './component/test.js.hbs',
+      abortOnFail: true
+    },
+    {
+      type: 'add',
+      path: '../../components/{{properCase name}}/style.css',
+      templateFile: './component/style.css.hbs',
       abortOnFail: true
     }];
     return actions;
