@@ -1,0 +1,73 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  width:100%;
+}
+
+.App-logo {
+  height: 40px;
+}
+
+.App-header {
+  text-align: center;
+  width:100%;
+  padding: 10px 0 6px 0;
+  color: white;
+  border-bottom: 1px solid #ccc;
+}
+
+.Vouchers {
+  width: 810px;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Voucher {
+  width: 400px; 
+  margin-top: 10px;
+  flex-direction: row;
+  display: flex;
+}
+
+.Voucher-logo {
+  width:50%;
+  display: flex;
+}
+
+.Voucher-logo img {
+  width:100%;
+}
+
+.Voucher-details {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  padding: 8px 0 0 8px;
+  justify-content: space-between;
+}
+
+.Voucher-price {
+  font-size: 20px;
+}
+
+.Voucher-title {
+}
+
+.Voucher-desc {
+  color: #c4c4c4;
+  font-size: 14px;
+}
+.Voucher-button {
+  background: #199DAA;
+  font-size: 16px;
+  border: 0;
+  color: #fff;
+  padding: 8px;
+  outline: none;
+}
+
+.Voucher-button:hover {
+  background: #1AD6E8;
+}
