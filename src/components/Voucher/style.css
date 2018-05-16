@@ -3,11 +3,16 @@
     margin-top: 10px;
     flex-direction: row;
     display: flex;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    padding: 8px;
 
 }
 
 .Voucher:hover {
-    transform: scale(1.005)
+    transform: scale(1.01);
+    background-color: white;
 }
 
 .Voucher-logo {
@@ -23,8 +28,8 @@
     width: 50%;
     display: flex;
     flex-direction: column;
-    padding: 8px 0 0 8px;
-    justify-content: space-between;
+    height: inherit;
+    padding-left: 8px;
 }
 
 .Voucher-price {
@@ -32,22 +37,15 @@
 }
 
 .Voucher-title {
+    padding-top: 0.2vw;
 }
 
 .Voucher-desc {
+    padding-top: 0.2vw;
     color: #c4c4c4;
     font-size: 14px;
 }
 
-.Voucher-button {
-    background: #199DAA;
-    font-size: 16px;
-    border: 0;
-    color: #fff;
-    padding: 8px;
-    outline: none;
-}
-
-.Voucher-button:hover {
-    background: #1AD6E8;
+.bottom {
+    flex-grow: 1;
 }

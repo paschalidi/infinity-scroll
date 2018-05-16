@@ -40,6 +40,7 @@ class Voucher extends React.Component { // eslint-disable-line react/prefer-stat
           <div className='Voucher-price'>Price: {price} €</div>
           <div className='Voucher-title'>{distribution}</div>
           <div className='Voucher-desc'>{description}</div>
+          <div className='bottom' />
           <Button onClick={() => console.log('You just bought a voucher!')}>
             {anchor}
           </Button>

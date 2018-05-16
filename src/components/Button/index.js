@@ -15,7 +15,7 @@ const Button = ({
                   children,
                   ...props
                 }) =>
-  <div className='inline' style={{ padding: '0 5px 3px 0' }}>
+  <div className='inline'>
     <button
       onClick={() => props.onClick()}
       className={`${props.className && props.className} btn`}

@@ -25,8 +25,9 @@ class Index extends Component {
         <Button onClick={() => this.handleFetchVoucher()}></Button>
         <section className='Vouchers'>
           {
-            vouchers.map(index =>
+            vouchers.map((index, key) =>
               <Voucher
+                key={key}
                 price={index.price}
                 distribution={index.distribution}
                 description={index.description}
