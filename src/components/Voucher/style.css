@@ -1,5 +1,4 @@
 .Voucher {
-    width: 400px;
     margin-top: 10px;
     flex-direction: row;
     display: flex;
@@ -7,7 +6,6 @@
     -moz-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     padding: 8px;
-
 }
 
 .Voucher:hover {

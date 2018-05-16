@@ -9,3 +9,30 @@ body {
     background: #fbfcfc;
     overflow-x: hidden;
 }
+
+
+@media only screen and (min-width: 992px) and (max-width: 1499px) {
+  .body-container {
+    width: 933px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .body-container {
+    width: calc( 933px  +  20vw ) !important;
+  }
+}
+
+/* Large Monitor */
+
+@media only screen and (min-width: 1500px) {
+  .body-container {
+    width: 1427px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .body-container {
+    width: calc( 1427px  +  6vw ) !important;
+  }
+}

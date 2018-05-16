@@ -1,26 +1,43 @@
 .App {
-  display: flex;
-  flex-direction: column;
-  align-items:center;
-  width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
 }
 
 .App-logo {
-  height: 40px;
+    height: 40px;
 }
 
 .App-header {
-  text-align: center;
-  width:100%;
-  padding: 10px 0 6px 0;
-  color: white;
-  border-bottom: 1px solid #ccc;
+    text-align: center;
+    width: 100%;
+    padding: 10px 0 6px 0;
+    color: white;
+    border-bottom: 1px solid #ccc;
 }
 
 .Vouchers {
-  width: 810px;
-  flex-wrap: wrap;
-  display: flex;
-  justify-content: space-between;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
 }
 
+.Vouchers > div {
+    flex-basis: calc(100%);
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1499px) {
+    .Vouchers > div {
+        flex-basis: calc(100% / 3);
+    }
+
+}
+
+/* Large Monitor */
+
+@media only screen and (min-width: 1500px) {
+    .Vouchers > div {
+        flex-basis: calc(100% / 4);
+    }
+}

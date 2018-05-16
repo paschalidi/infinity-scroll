@@ -23,7 +23,7 @@ class Index extends Component {
     return (
       <div className='App'>
         <Button onClick={() => this.handleFetchVoucher()}></Button>
-        <section className='Vouchers'>
+        <section className='Vouchers body-container'>
           {
             vouchers.map((index, key) =>
               <Voucher
