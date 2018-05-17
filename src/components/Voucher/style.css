@@ -1,4 +1,6 @@
 .Voucher {
+    margin: 0 auto;
+    max-width: 400px;
     margin-top: 10px;
     flex-direction: row;
     display: flex;

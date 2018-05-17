@@ -1,43 +1,38 @@
 import React, { Component } from 'react';
 import './style.css';
-
-import Button from '../Button';
-import { fetchVouchers } from '../../utils/fetchVouchers';
 import Voucher from '../Voucher';
+import InfiniteScrolling from '../InfiniteScrolling';
 
 
 class Index extends Component {
   constructor(props) {
     super(props);
-    this.state = {
-      vouchers: []
-    };
   }
 
-  handleFetchVoucher = () => this.setState({
-    vouchers: [...this.state.vouchers, ...fetchVouchers(10)]
-  });
-
   render() {
-    const { vouchers } = this.state;
+    const { vouchers } = this.props;
     return (
       <div className='App'>
-        <Button onClick={() => this.handleFetchVoucher()}></Button>
-        <section className='Vouchers body-container'>
-          {
-            vouchers.map((index, key) =>
-              <Voucher
-                key={key}
-                price={index.price}
-                distribution={index.distribution}
-                description={index.description}
-                anchor={index.anchor}
-              />)
-          }
+        <section className='ui centered grid stackable'>
+          <div className="three column row">
+            {
+              vouchers.map((index, key) =>
+                <div className='column'>
+                  <Voucher
+                    key={key}
+                    price={index.price}
+                    distribution={index.distribution}
+                    description={index.description}
+                    anchor={index.anchor}
+                  />
+                </div>
+              )
+            }
+          </div>
         </section>
       </div>
     );
   }
 }
 
-export default Index;
+export default InfiniteScrolling(Index);

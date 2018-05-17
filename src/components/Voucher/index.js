@@ -20,6 +20,7 @@ class Voucher extends React.Component { // eslint-disable-line react/prefer-stat
     this.state = { imgUrl: props.image };
   }
 
+
   handleImageOnError = () => this.setState({ imgUrl: 'http://via.placeholder.com/250x250' });
 
   render() {
@@ -32,7 +33,10 @@ class Voucher extends React.Component { // eslint-disable-line react/prefer-stat
     const { imgUrl } = this.state;
 
     return (
-      <div className='Voucher'>
+      <div
+        className='Voucher'
+        onClick={() => console.log(window.pageYOffset, document.body.scrollHeight)}
+      >
         <div className='Voucher-logo'>
           <img src={imgUrl} alt={description} onError={() => this.props.handleImageOnError} />
         </div>
