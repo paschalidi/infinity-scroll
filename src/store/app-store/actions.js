@@ -1,7 +1,7 @@
 import * as t from './actionTypes';
 
 
-export const fetchVouchers = (amount) => ({
+export const fetchVouchers = (amount = 10) => ({
   type: t.FETCH_VOUCHERS,
-  payload: { payload: { amount } }
+  payload: { amount }
 });

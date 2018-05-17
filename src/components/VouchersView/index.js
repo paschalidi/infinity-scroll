@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import './style.css';
+import { connect } from 'react-redux';
+import * as actions from '../../store/app-store/actions';
+
 import Voucher from '../Voucher';
 import InfiniteScrolling from '../InfiniteScrolling';
 
@@ -17,9 +20,8 @@ class Index extends Component {
           <div className="three column row">
             {
               vouchers.map((index, key) =>
-                <div className='column'>
+                <div key={key} className='column'>
                   <Voucher
-                    key={key}
                     price={index.price}
                     distribution={index.distribution}
                     description={index.description}
@@ -35,4 +37,8 @@ class Index extends Component {
   }
 }
 
-export default InfiniteScrolling(Index);
+function mapStateToProps(state) {
+  return { ...state.reducer };
+}
+
+export default InfiniteScrolling(connect(mapStateToProps, actions)(Index));

@@ -8,12 +8,13 @@
 /* eslint-disable react/prop-types */
 
 import React, { Fragment, Component } from 'react';
+import { connect } from 'react-redux';
+import * as actions from '../../store/app-store/actions';
 import './style.css';
-import { fetchVouchers } from '../../utils/fetchVouchers';
 
 
-export default function Hoc(ChildrenComponent) {
-  return class extends Component {
+const Hoc = (ChildrenComponent) => {
+  class HocProvider extends React.Component {
     constructor(props) {
       super(props);
       this.state = {
@@ -22,7 +23,6 @@ export default function Hoc(ChildrenComponent) {
     }
 
     componentDidMount() {
-      this.handleFetchVoucher();
       window.addEventListener('scroll', this.handleScroll);
     }
 
@@ -32,17 +32,17 @@ export default function Hoc(ChildrenComponent) {
 
     handleScroll = () => {
       if (document.body.scrollHeight - window.pageYOffset < 1000)
-        this.handleFetchVoucher();
+        this.props.fetchVouchers(20);
     };
-
-    handleFetchVoucher = () => this.setState({
-      vouchers: [...this.state.vouchers, ...fetchVouchers(20)]
-    });
 
     render() {
       return (
-        <ChildrenComponent vouchers={this.state.vouchers} />
+        <ChildrenComponent />
       );
     }
-  };
-}
+  }
+
+  return connect(null, actions)(HocProvider);
+};
+
+export default Hoc;
