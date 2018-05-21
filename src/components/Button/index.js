@@ -40,6 +40,7 @@ const Button = ({
                 background-color: #199DAA;
                 transition: background-color .2s;
                 font-weight: 200;
+                cursor: pointer;
             }
 
             .btn:hover,

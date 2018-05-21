@@ -15,13 +15,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Placeat iusto sed sed cumque pariatur sint ut mollitia."
+              alt="Veniam aliquid quia nam quibusdam."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -33,7 +32,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              28.27
+              332.50
                €
             </div>
             <div
@@ -44,7 +43,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Placeat iusto sed sed cumque pariatur sint ut mollitia.
+              Veniam aliquid quia nam quibusdam.
             </div>
             <div
               className="bottom"
@@ -75,6 +74,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -107,13 +107,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Incidunt nisi cumque sed modi animi sed quis et."
+              alt="Culpa nisi exercitationem."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -125,7 +124,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              896.84
+              245.07
                €
             </div>
             <div
@@ -136,7 +135,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Incidunt nisi cumque sed modi animi sed quis et.
+              Culpa nisi exercitationem.
             </div>
             <div
               className="bottom"
@@ -167,6 +166,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -199,13 +199,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Eius praesentium labore."
+              alt="Reiciendis reiciendis dolorem nesciunt voluptate."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -217,7 +216,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              381.12
+              569.94
                €
             </div>
             <div
@@ -228,7 +227,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Eius praesentium labore.
+              Reiciendis reiciendis dolorem nesciunt voluptate.
             </div>
             <div
               className="bottom"
@@ -259,6 +258,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -291,13 +291,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Quo est ullam placeat eveniet eos placeat quo harum et."
+              alt="Hic iste beatae ex qui nisi minus magni iusto quas."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -309,7 +308,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              906.68
+              609.30
                €
             </div>
             <div
@@ -320,7 +319,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Quo est ullam placeat eveniet eos placeat quo harum et.
+              Hic iste beatae ex qui nisi minus magni iusto quas.
             </div>
             <div
               className="bottom"
@@ -351,6 +350,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -383,13 +383,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Quod atque autem quos."
+              alt="Itaque consequatur aut vel."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -401,7 +400,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              585.85
+              831.19
                €
             </div>
             <div
@@ -412,7 +411,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Quod atque autem quos.
+              Itaque consequatur aut vel.
             </div>
             <div
               className="bottom"
@@ -443,6 +442,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -475,13 +475,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Qui magnam fugit laudantium alias veniam quae sint."
+              alt="Eveniet molestiae mollitia."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -493,7 +492,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              867.94
+              539.03
                €
             </div>
             <div
@@ -504,7 +503,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Qui magnam fugit laudantium alias veniam quae sint.
+              Eveniet molestiae mollitia.
             </div>
             <div
               className="bottom"
@@ -535,6 +534,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -567,13 +567,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Magni impedit vel nihil est."
+              alt="Consequatur quaerat in suscipit ea mollitia exercitationem saepe ea accusantium."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -585,7 +584,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              653.75
+              157.11
                €
             </div>
             <div
@@ -596,7 +595,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Magni impedit vel nihil est.
+              Consequatur quaerat in suscipit ea mollitia exercitationem saepe ea accusantium.
             </div>
             <div
               className="bottom"
@@ -627,6 +626,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -659,13 +659,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Autem magni quibusdam aut."
+              alt="Similique libero voluptatem explicabo dolorem omnis."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -677,7 +676,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              316.29
+              361.75
                €
             </div>
             <div
@@ -688,7 +687,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Autem magni quibusdam aut.
+              Similique libero voluptatem explicabo dolorem omnis.
             </div>
             <div
               className="bottom"
@@ -719,6 +718,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -751,13 +751,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Consequatur a id odit dolore quisquam."
+              alt="Deserunt natus quo perspiciatis molestiae est totam amet facere voluptas."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -769,7 +768,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              650.00
+              679.97
                €
             </div>
             <div
@@ -780,7 +779,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Consequatur a id odit dolore quisquam.
+              Deserunt natus quo perspiciatis molestiae est totam amet facere voluptas.
             </div>
             <div
               className="bottom"
@@ -811,6 +810,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -843,13 +843,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Tenetur aut incidunt."
+              alt="Sint alias sapiente eum doloremque et amet hic voluptatem excepturi."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -861,7 +860,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              285.36
+              920.96
                €
             </div>
             <div
@@ -872,7 +871,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Tenetur aut incidunt.
+              Sint alias sapiente eum doloremque et amet hic voluptatem excepturi.
             </div>
             <div
               className="bottom"
@@ -903,6 +902,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -935,13 +935,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Qui cupiditate voluptate enim est facere."
+              alt="Ut neque sunt ratione eaque velit saepe adipisci."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -953,7 +952,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              454.01
+              539.04
                €
             </div>
             <div
@@ -964,7 +963,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Qui cupiditate voluptate enim est facere.
+              Ut neque sunt ratione eaque velit saepe adipisci.
             </div>
             <div
               className="bottom"
@@ -995,6 +994,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -1027,13 +1027,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Iusto deserunt voluptates aut reprehenderit sit qui et."
+              alt="Harum at mollitia quo est veritatis nostrum distinctio temporibus dignissimos."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -1045,7 +1044,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              274.64
+              415.16
                €
             </div>
             <div
@@ -1056,7 +1055,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Iusto deserunt voluptates aut reprehenderit sit qui et.
+              Harum at mollitia quo est veritatis nostrum distinctio temporibus dignissimos.
             </div>
             <div
               className="bottom"
@@ -1087,6 +1086,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -1119,13 +1119,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Neque at eum qui qui itaque sint asperiores culpa et."
+              alt="Laudantium non cum non impedit ut."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -1137,7 +1136,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              371.73
+              719.72
                €
             </div>
             <div
@@ -1148,7 +1147,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Neque at eum qui qui itaque sint asperiores culpa et.
+              Laudantium non cum non impedit ut.
             </div>
             <div
               className="bottom"
@@ -1179,6 +1178,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -1211,13 +1211,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Ut quasi ab in doloremque ut dolorum."
+              alt="Repellat sint non quibusdam doloribus quia sapiente quo nulla."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -1229,7 +1228,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              545.36
+              945.94
                €
             </div>
             <div
@@ -1240,7 +1239,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Ut quasi ab in doloremque ut dolorum.
+              Repellat sint non quibusdam doloribus quia sapiente quo nulla.
             </div>
             <div
               className="bottom"
@@ -1271,6 +1270,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -1303,13 +1303,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Excepturi atque omnis."
+              alt="Sit ea tempora et recusandae ipsum voluptas dolor provident."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -1321,7 +1320,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              555.39
+              734.07
                €
             </div>
             <div
@@ -1332,7 +1331,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Excepturi atque omnis.
+              Sit ea tempora et recusandae ipsum voluptas dolor provident.
             </div>
             <div
               className="bottom"
@@ -1363,6 +1362,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -1395,13 +1395,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Vitae eum saepe modi magni."
+              alt="Laboriosam mollitia cum veritatis sit similique consequatur atque."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -1413,7 +1412,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              986.82
+              32.13
                €
             </div>
             <div
@@ -1424,7 +1423,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Vitae eum saepe modi magni.
+              Laboriosam mollitia cum veritatis sit similique consequatur atque.
             </div>
             <div
               className="bottom"
@@ -1455,6 +1454,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -1487,13 +1487,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Facilis voluptatem tempora dolorem non eveniet itaque deserunt minus aliquam."
+              alt="Eaque officia magnam mollitia iure consectetur cupiditate quo nam."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -1505,7 +1504,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              123.15
+              513.89
                €
             </div>
             <div
@@ -1516,7 +1515,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Facilis voluptatem tempora dolorem non eveniet itaque deserunt minus aliquam.
+              Eaque officia magnam mollitia iure consectetur cupiditate quo nam.
             </div>
             <div
               className="bottom"
@@ -1547,6 +1546,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -1579,13 +1579,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Rerum nostrum asperiores minima quidem dolorem inventore tempore consequuntur."
+              alt="Quasi nemo similique quo neque."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -1597,7 +1596,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              246.82
+              101.36
                €
             </div>
             <div
@@ -1608,7 +1607,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Rerum nostrum asperiores minima quidem dolorem inventore tempore consequuntur.
+              Quasi nemo similique quo neque.
             </div>
             <div
               className="bottom"
@@ -1639,6 +1638,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -1671,13 +1671,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Quaerat tempore non numquam."
+              alt="Ullam qui quia."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -1689,7 +1688,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              682.93
+              243.88
                €
             </div>
             <div
@@ -1700,7 +1699,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Quaerat tempore non numquam.
+              Ullam qui quia.
             </div>
             <div
               className="bottom"
@@ -1731,6 +1730,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
@@ -1763,13 +1763,12 @@ exports[`VouchersView renders 1`] = `
       >
         <div
           className="Voucher"
-          onClick={[Function]}
         >
           <div
             className="Voucher-logo"
           >
             <img
-              alt="Unde eos ut illum."
+              alt="Quo sunt vitae."
               onError={[Function]}
               src="https://fakeimg.pl/200x150/"
             />
@@ -1781,7 +1780,7 @@ exports[`VouchersView renders 1`] = `
               className="Voucher-price"
             >
               Price: 
-              683.28
+              34.43
                €
             </div>
             <div
@@ -1792,7 +1791,7 @@ exports[`VouchersView renders 1`] = `
             <div
               className="Voucher-desc"
             >
-              Unde eos ut illum.
+              Quo sunt vitae.
             </div>
             <div
               className="bottom"
@@ -1823,6 +1822,7 @@ exports[`VouchersView renders 1`] = `
                                   background-color: #199DAA;
                                   transition: background-color .2s;
                                   font-weight: 200;
+                                  cursor: pointer;
                               }
                   
                               .btn:hover,
