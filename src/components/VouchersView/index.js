@@ -8,10 +8,6 @@ import InfiniteScrolling from '../InfiniteScrolling';
 
 
 class Index extends Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     const { vouchers } = this.props;
     return (

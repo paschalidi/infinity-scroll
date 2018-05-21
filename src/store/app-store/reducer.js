@@ -7,6 +7,7 @@ export const reducer = (state = { vouchers: fetchVouchers(20) }, { type, payload
     case t.FETCH_VOUCHERS:
       const newVouchers = fetchVouchers(payload.amount);
       return { vouchers: [...state.vouchers, ...newVouchers] };
+    default:
+      return state;
   }
-  return state;
 };
