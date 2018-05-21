@@ -39,10 +39,6 @@ Your task is to implement a web-page where our users can infinitely scroll over 
 
 As an input you have a basic representation of a voucher list from our design agency.
 
-This design is already implemented as a simple react app (have a look at the `src/App.js` file).
-
-In `src/index.js` you will find the `fetchVouchers` method which can return as many vouchers as you wish.
-
 Things to be done:
 
 - Make the list of vouchers dynamic and use data from the `fetchVouchers` method
@@ -50,7 +46,18 @@ Things to be done:
 - (Optional) Our design agency has only implemented the desktop design, can you optimise it for mobile?
 - (Optional) `yarn test` would run all the tests, using `jest`. So far, there is only one simple test in `src/App.js`. You can cover the code you wrote with some tests, as well.
 
-To start - run `yarn install` and `yarn start` to start a dev server on `http://localhost:3000`
-
 In terms of styling and layout, please choose whatever you prefer.
 Feel free to use a CSS framework or pre-processor. Whatever you are most comfortable with.
+
+
+## Implementation
+
+### Details
+
+* I believe that the structure of the project itself was not very scalable so I changes it a bit.
+* State management is being handled by redux
+* The mobile version is being optimised
+* I used ui grid from [semantic-ui](https://semantic-ui.com/)
+* Test are being written with Jest.
+* I didnt test the reducer as it is very very simple in this case. You can see more of the tests I wrote in my github though.
+* Infinite scroll is being handled by a HOC which is attached to the pageView. This way we could use the infinite scroll in any page view we might have in the future.
