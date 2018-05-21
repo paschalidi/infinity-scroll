@@ -1,9 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import Voucher from 'index';
+/* eslint-env jest */
 
-it('renders without crashing', () => {
-  const div = document.createElement('div');
-  ReactDOM.render('<Voucher />', div);
-  ReactDOM.unmountComponentAtNode(div);
+import React from 'react';
+import renderer from 'react-test-renderer';
+import Component from '../index';
+
+
+test('Voucher renders', () => {
+  const component = renderer.create(<Component />);
+  let tree;
+
+  tree = component.toJSON();
+  expect(tree).toMatchSnapshot();
 });

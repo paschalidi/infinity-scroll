@@ -1,0 +1,1856 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VouchersView renders 1`] = `
+<div
+  className="App"
+>
+  <section
+    className="ui centered grid stackable"
+  >
+    <div
+      className="three column row"
+    >
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Placeat iusto sed sed cumque pariatur sint ut mollitia."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              28.27
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Placeat iusto sed sed cumque pariatur sint ut mollitia.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Incidunt nisi cumque sed modi animi sed quis et."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              896.84
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Incidunt nisi cumque sed modi animi sed quis et.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Eius praesentium labore."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              381.12
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Eius praesentium labore.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Quo est ullam placeat eveniet eos placeat quo harum et."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              906.68
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Quo est ullam placeat eveniet eos placeat quo harum et.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Quod atque autem quos."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              585.85
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Quod atque autem quos.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Qui magnam fugit laudantium alias veniam quae sint."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              867.94
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Qui magnam fugit laudantium alias veniam quae sint.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Magni impedit vel nihil est."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              653.75
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Magni impedit vel nihil est.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Autem magni quibusdam aut."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              316.29
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Autem magni quibusdam aut.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Consequatur a id odit dolore quisquam."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              650.00
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Consequatur a id odit dolore quisquam.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Tenetur aut incidunt."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              285.36
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Tenetur aut incidunt.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Qui cupiditate voluptate enim est facere."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              454.01
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Qui cupiditate voluptate enim est facere.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Iusto deserunt voluptates aut reprehenderit sit qui et."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              274.64
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Iusto deserunt voluptates aut reprehenderit sit qui et.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Neque at eum qui qui itaque sint asperiores culpa et."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              371.73
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Neque at eum qui qui itaque sint asperiores culpa et.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Ut quasi ab in doloremque ut dolorum."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              545.36
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Ut quasi ab in doloremque ut dolorum.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Excepturi atque omnis."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              555.39
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Excepturi atque omnis.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Vitae eum saepe modi magni."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              986.82
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Vitae eum saepe modi magni.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Facilis voluptatem tempora dolorem non eveniet itaque deserunt minus aliquam."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              123.15
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Facilis voluptatem tempora dolorem non eveniet itaque deserunt minus aliquam.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Rerum nostrum asperiores minima quidem dolorem inventore tempore consequuntur."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              246.82
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Rerum nostrum asperiores minima quidem dolorem inventore tempore consequuntur.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Quaerat tempore non numquam."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              682.93
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Quaerat tempore non numquam.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="Voucher"
+          onClick={[Function]}
+        >
+          <div
+            className="Voucher-logo"
+          >
+            <img
+              alt="Unde eos ut illum."
+              onError={[Function]}
+              src="https://fakeimg.pl/200x150/"
+            />
+          </div>
+          <div
+            className="Voucher-details"
+          >
+            <div
+              className="Voucher-price"
+            >
+              Price: 
+              683.28
+               €
+            </div>
+            <div
+              className="Voucher-title"
+            >
+              Distributor
+            </div>
+            <div
+              className="Voucher-desc"
+            >
+              Unde eos ut illum.
+            </div>
+            <div
+              className="bottom"
+            />
+            <div
+              className="inline"
+            >
+              <button
+                className="undefined btn"
+                onClick={[Function]}
+                style={undefined}
+                type="button"
+              >
+                <style>
+                  
+                              .btn {
+                                  letter-spacing: 0.10em;
+                                  outline: none;
+                                  overflow: hidden;
+                                  display: inline-block;
+                                  width: 100%;
+                                  font-size: 16px;
+                                  padding: 8px 15px;
+                                  margin: 0;
+                                  border-width: 0;
+                                  border-radius: 0;
+                                  color: white;
+                                  background-color: #199DAA;
+                                  transition: background-color .2s;
+                                  font-weight: 200;
+                              }
+                  
+                              .btn:hover,
+                              .btn:focus {
+                                  color: #f2f2f2;
+                                  background-color: #1AD6E8;
+                              }
+                  
+                              .btn.transparent {
+                                  background-color: transparent;
+                                  border: solid 1px #999;
+                                  color: #313541;
+                              }
+                  
+                              .btn.transparent:hover,
+                              .btn.transparent:focus {
+                                  background-color: #999;
+                                  color: white;
+                              }
+                          
+                </style>
+                BUY
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;

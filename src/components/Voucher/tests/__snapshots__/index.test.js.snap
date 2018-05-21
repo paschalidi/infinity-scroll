@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Voucher renders 1`] = `
+<div
+  className="Voucher"
+  onClick={[Function]}
+>
+  <div
+    className="Voucher-logo"
+  >
+    <img
+      alt="Description"
+      onError={[Function]}
+      src="https://fakeimg.pl/200x150/"
+    />
+  </div>
+  <div
+    className="Voucher-details"
+  >
+    <div
+      className="Voucher-price"
+    >
+      Price: 
+      Price: €100
+       €
+    </div>
+    <div
+      className="Voucher-title"
+    >
+      Distributor
+    </div>
+    <div
+      className="Voucher-desc"
+    >
+      Description
+    </div>
+    <div
+      className="bottom"
+    />
+    <div
+      className="inline"
+    >
+      <button
+        className="undefined btn"
+        onClick={[Function]}
+        style={undefined}
+        type="button"
+      >
+        <style>
+          
+                      .btn {
+                          letter-spacing: 0.10em;
+                          outline: none;
+                          overflow: hidden;
+                          display: inline-block;
+                          width: 100%;
+                          font-size: 16px;
+                          padding: 8px 15px;
+                          margin: 0;
+                          border-width: 0;
+                          border-radius: 0;
+                          color: white;
+                          background-color: #199DAA;
+                          transition: background-color .2s;
+                          font-weight: 200;
+                      }
+          
+                      .btn:hover,
+                      .btn:focus {
+                          color: #f2f2f2;
+                          background-color: #1AD6E8;
+                      }
+          
+                      .btn.transparent {
+                          background-color: transparent;
+                          border: solid 1px #999;
+                          color: #313541;
+                      }
+          
+                      .btn.transparent:hover,
+                      .btn.transparent:focus {
+                          background-color: #999;
+                          color: white;
+                      }
+                  
+        </style>
+        BUY
+      </button>
+    </div>
+  </div>
+</div>
+`;
