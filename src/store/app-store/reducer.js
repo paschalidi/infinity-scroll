@@ -2,7 +2,7 @@ import * as t from './actionTypes';
 import { fetchVouchers } from '../../utils/fetchVouchers';
 
 
-export const reducer = (state = { vouchers: fetchVouchers(10) }, { type, payload }) => {
+export const reducer = (state = { vouchers: fetchVouchers(20) }, { type, payload }) => {
   switch (type) {
     case t.FETCH_VOUCHERS:
       const newVouchers = fetchVouchers(payload.amount);
