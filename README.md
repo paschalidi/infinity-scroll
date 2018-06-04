@@ -1,4 +1,4 @@
-# Optiopay Front End Code Challenge
+# Infinity Scroll HOC
 
 ## General info
 You can find a live version of the challenge [here](https://optiopay-coding-challenge.herokuapp.com/)
